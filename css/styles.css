@@ -1,0 +1,84 @@
+
+.about-background body {
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100% 490px;
+    padding-top: 0px;
+}
+
+p {
+  color: #000000;
+  text-align: justify;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding-top: 15px;
+}
+
+.centered-paragraph p {
+  text-align: center;
+}
+
+.bottom p {
+  text-align: center;
+  padding-bottom: 0px;
+}
+/*-----BOTH-----*/
+
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+  color: #0606e0;
+  padding-botom: 15px;
+}
+
+/*-------------------LOCATION------------*/
+.col-md-6 ol {
+  padding-top: 8px;
+  font-size: 14px;
+}
+
+
+.lot {
+  text-align: center;
+  padding-bottom: 30px;
+  margin-left: 10px;
+}
+
+
+.container {
+float: center;
+margin: 0 auto;
+text-align: right;
+padding-top: 40px;
+}
+
+
+
+
+
+
+
+/*----------------FOOTER------------*/
+
+
+
+
+footer {
+  background-color: #0606e0;
+  height: 150px;
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-top: 15px;
+}
+
+.footer p {
+  text-align: center;
+}
+
+.footer ul {
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
